@@ -1,0 +1,6 @@
+chai_shop/
+    run.py  -> start the app   (modules)
+    chai.py                     (modules)
+    processing/
+    utils/      (packages)
+        __init__.py
